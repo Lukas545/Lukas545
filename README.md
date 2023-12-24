@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 #Fullstack Developer
 -------------------
 
-I want to become a fullstack developer. I have been learning to code for 5 years. I mostly write my programs in Java, JavaScript and C++. I also have a good knowledge of SQL.
+I want to become a fullstack developer. I have been learning to code for 5 years. I mostly write my programs in Java, JavaScript and C++. I also have a good knowledge of SQL
 
 *   🌍  I'm based in Wadowice
 *   ✉️  You can contact me at [mlukas1@poczta.fm](mailto:mlukas1@poczta.fm)
